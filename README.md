@@ -1,2 +1,2 @@
 # Neopixel
- 
+ A Neopixel wrapper.
